@@ -1,0 +1,30 @@
+.ba-sup{
+    background-color: aquamarine;
+    height: 10vh;
+}
+
+#superior-iz{
+    float: left;
+}
+
+#superior-dc{
+    float: right;
+}
+
+.container{
+    background-color: blueviolet;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* #img-google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .div-button{
+} */
